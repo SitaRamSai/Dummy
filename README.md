@@ -31,6 +31,9 @@ https://www.theforage.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/JP-Mor
 - [React](https://reactjs.org/)
 - [Node.js](https://nodejs.org/en/)
 
+## Certificate Of Completion
+![image](https://user-images.githubusercontent.com/57385355/117342241-9e43b000-ae68-11eb-83f8-9d5a91ea4bda.png)
+
 ## License
 
 This project is licensed under the [MIT](https://github.com/minji-mia/JPMorgan-Chase-Virtual-Internship/blob/master/LICENSE) License
